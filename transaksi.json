@@ -2,8 +2,8 @@
   "total_trx": 0,
   "total_trx_hari_ini": 0,
   "total_trx_tahun_ini": 0,
-  "total_uang_masuk": 4563,
-  "total_refID": 4,
+  "total_uang_masuk": 6318,
+  "total_refID": 5,
   "data": {
     "T1°089530420746°2°6289530420746": {
       "harga": 1521,
@@ -22,6 +22,12 @@
       "status": "PROSES",
       "refund": false,
       "tanggal": "2024-04-27 23:25"
+    },
+    "DML2°74165454°5°6289530420746": {
+      "harga": 1755,
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2024-04-27 23:29"
     }
   }
 }
