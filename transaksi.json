@@ -2,14 +2,20 @@
   "total_trx": 0,
   "total_trx_hari_ini": 0,
   "total_trx_tahun_ini": 0,
-  "total_uang_masuk": 1521,
-  "total_refID": 2,
+  "total_uang_masuk": 3042,
+  "total_refID": 3,
   "data": {
     "T1°089530420746°2°6289530420746": {
       "harga": 1521,
       "status": "PROSES",
       "refund": false,
       "tanggal": "2024-04-27 21:50"
+    },
+    "T1°089530420746°3°6289530420746": {
+      "harga": 1521,
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2024-04-27 21:58"
     }
   }
 }
