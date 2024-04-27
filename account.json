@@ -6,5 +6,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-04-27 20:58"
+  },
+  "puttrapedia@gmail.com°puttrapedia°6289530420746": {
+    "password": "Puttrapedia@123",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-04-27 21:13"
   }
 }
